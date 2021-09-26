@@ -9,9 +9,7 @@ const Header = () => {
         It's a profitable organization that helps the people who are extreme in
         danger
       </p>
-      <h3>
-        Total estimated amount: $git add <div className=""></div>150 million
-      </h3>
+      <h3>Total estimated amount: $150 million</h3>
     </div>
   );
 };
