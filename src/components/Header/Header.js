@@ -4,7 +4,7 @@ import "./Header.css";
 const Header = () => {
   return (
     <div className="header">
-      <h1>Make a social community rescue team</h1>
+      <h1> A social community rescue team</h1>
       <p>
         It's a profitable organization that helps the people who are extreme in
         danger
