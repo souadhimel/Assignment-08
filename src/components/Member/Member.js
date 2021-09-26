@@ -32,7 +32,9 @@ const Member = (props) => {
             Add in team
           </button>
 
-          <FontAwesomeIcon icon={faLink} />
+          <div>
+            <FontAwesomeIcon icon={faLink} />
+          </div>
         </div>
       </div>
     </div>
